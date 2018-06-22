@@ -1,3 +1,5 @@
+# 项目内 `demo/demo_simple.php` 可以实现基本签到功能，填写自己的 appId，token，encodingAESKey 即可
+
 # wechat-php-sdk
 微信公众平台php版开发包
 * 支持消息加解密方式的明文模式、兼容模式、安全模式
